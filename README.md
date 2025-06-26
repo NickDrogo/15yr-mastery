@@ -16,11 +16,11 @@
 
 | Folder              | Purpose                                                 |
 |---------------------|----------------------------------------------------------|
-| `/python-foundation` | All projects from Python Crash Course and beyond        |
-| `/mathematics`       | Notes + solutions from my 6-field math mastery          |
-| `/cs-core`           | Core CS books & topics + solutions.                     |
-| `/global-projects`   | Real-life projects, tools, experiments                  |
-| `/docs`              | My logs, progress tracker, and journey reflections      |
+| `/python-foundation` | All projects from python books                          |
+| `/mathematics`       | Math + Code + Real-world use                            |
+| `/cs-core`           | Core CS topics + Code + Application                     |
+| `/global-projects`   | Real-life projects, tools, experiments from scratch     |
+| `/docs`              | Plans, roadmaps, checklists.                            |
 
 ---
 
