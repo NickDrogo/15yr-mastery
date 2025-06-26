@@ -1,15 +1,9 @@
 
-# 📘 Learning Logs & Book Progress
+# 📘 Learning Records & Book Progress
 
-This folder keeps track of all study records:
+This folder only tracks:
 
-- 📚 Books currently being studied
-- ✅ Completed books
-- 🔁 Book review timelines
-- 🧱 Daily/weekly study logs
+1. 📚 Books currently in progress  
+2. ✅ Books completed  
 
-Every entry here reflects the process — not the plan.  
-No projections. Just documentation.
-
-Progress is built page by page.  
-Slow is smooth. Smooth is unstoppable.
+No hype. No filler.
