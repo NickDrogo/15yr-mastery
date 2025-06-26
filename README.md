@@ -4,7 +4,7 @@
 
 ### 🔥 Core Focus:
 - Python, C, Shell, SQL, JavaScript, Solidity, HTML/CSS
-- Discrete Mathematics, Linear Algebra, Calculus, Number Theory, graph theory 
+- Discrete Mathematics, Linear Algebra, Calculus, Number Theory, graph theory, probability 
 - Artificial Intelligence (AI)
 - Cybersecurity
 - Blockchain
@@ -14,13 +14,13 @@
 
 ## 📁 Repo Structure:
 
-| Folder              | Purpose                                                 |
+| Folder              | Purpose                                                  |
 |---------------------|----------------------------------------------------------|
 | `/python-foundation` | All projects from python books                          |
 | `/mathematics`       | Math + Code + Real-world use                            |
 | `/cs-core`           | Core CS topics + Code + Application                     |
 | `/global-projects`   | Real-life projects, tools, experiments from scratch     |
-| `/docs`              | Plans, roadmaps, checklists.                            |
+| `/docs`              | roadmaps, checklists.                                   |
 
 ---
 
