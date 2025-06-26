@@ -6,7 +6,6 @@ Each book links directly to the folder where related notes or implementations li
 | Book Title                   | Notes Folder         |
 |------------------------------|----------------------|
 | Python Crash Course          | /python-foundation/  |
-| Pro Git                      | /python-foundation/  |
 | Discrete Mathematics (Rosen) | /mathematics/        |
 | Friendly Intro to Num Theory | /mathematics/        |
 | Intro to Probability         | /mathematics/        |
