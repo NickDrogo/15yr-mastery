@@ -18,7 +18,7 @@
 |---------------------|----------------------------------------------------------|
 | `/python-foundation` | All projects from Python Crash Course and beyond        |
 | `/mathematics`       | Notes + solutions from my 6-field math mastery          |
-| `/cs-core`           | Core CS books & topics: Git, OS, Networking, DB, etc.   |
+| `/cs-core`           | Core CS books & topics + solutions.                     |
 | `/global-projects`   | Real-life projects, tools, experiments                  |
 | `/docs`              | My logs, progress tracker, and journey reflections      |
 
