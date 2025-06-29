@@ -3,7 +3,7 @@
 > Public record of my 15-year pursuit of mastery in Computer Science and real-world systems.
 
 ### 🔥 Core Focus:
-- Python, C, Shell, SQL, JavaScript, Solidity, HTML/CSS
+- Python, C, Shell, SQL, JavaScript, Solidity, HTML/CSS, react, typescript, Django 
 - Discrete Mathematics, Linear Algebra, Calculus, Number Theory, graph theory, probability 
 - Artificial Intelligence (AI)
 - Cybersecurity
