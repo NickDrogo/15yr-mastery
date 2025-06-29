@@ -1,4 +1,4 @@
-# 🧱 10-Year Mastery Journey (2025–2035)
+# 🧱 15-Year Mastery Journey (2025–2040)
 
 > Public record of my 10-year pursuit of mastery in Computer Science and real-world systems.
 
@@ -35,6 +35,6 @@ No noise, no hype — just **bricks stacked daily** toward mastery.
 
 | Phase              | Target Duration     |
 |--------------------|---------------------|
-| Foundation Build   | 2025–2029 (with BSc) |
-| Deep Field Work    | 2029–2035            |
-| Global Impact      | After 2035 🧠🌍       |
+| Foundation Build   | 2025–2029 (with BSc)|
+| Deep Field Work    | 2029–2040           |
+| Global Impact      | After 2040🧠🌍      |
