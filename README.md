@@ -1,6 +1,6 @@
 # 🧱 15-Year Mastery Journey (2025–2040)
 
-> Public record of my 10-year pursuit of mastery in Computer Science and real-world systems.
+> Public record of my 15-year pursuit of mastery in Computer Science and real-world systems.
 
 ### 🔥 Core Focus:
 - Python, C, Shell, SQL, JavaScript, Solidity, HTML/CSS
