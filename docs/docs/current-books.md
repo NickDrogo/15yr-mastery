@@ -10,3 +10,4 @@ Each book links directly to the folder where related notes or implementations li
 | Friendly Intro to Num Theory | /mathematics/        |
 | Intro to Probability         | /mathematics/        |
 | Grokking Algorithms          | /cs-core/            |
+| Pro Git                      | /blank with intent/  |
