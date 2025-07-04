@@ -4,7 +4,6 @@
 
 - Installed Python and VS Code
 - Learned how to run `.py` files from the terminal
-- Understood how `print()` works
 - learnt how valuable an idea book can be
 
 ---

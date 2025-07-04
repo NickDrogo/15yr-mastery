@@ -9,7 +9,7 @@ This is my first beginner python project - a simple console app that:
 The goal was to practise basic syntax like:
 
 - 'print()' statements
-- Escape characters (e.g., '\\', '\n')
+- Escape characters (e.g., '\\', '\n' '\t')
 - Organizing output in a readable way
 
 ---
@@ -18,4 +18,3 @@ The goal was to practise basic syntax like:
 
 - How to write multi-line print output
 - How to use escape characters for ASCII art
-- How to write clean, readable code using comments
