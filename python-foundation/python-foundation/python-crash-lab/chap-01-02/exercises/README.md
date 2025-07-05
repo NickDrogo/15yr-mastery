@@ -9,7 +9,7 @@ They helped me understand:
 - Naming rules for variables
 - Performing basic math with operators
 - writing meaningful comments in code
-- How to use the format function
+- How to use the f-strings
 
 ---
 
