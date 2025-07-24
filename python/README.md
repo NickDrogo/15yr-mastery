@@ -1,5 +1,5 @@
 
-# 🐍 Python Foundation
+# 🐍 Python
 
 This folder tracks the full learning curve through:
 

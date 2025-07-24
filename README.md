@@ -4,7 +4,7 @@
 
 ### 🔥 Core Focus:
 
-- Python, C, Shell, SQL, JavaScript, Solidity, HTML/CSS, react, typescript, Django
+- Python, C, Shell, SQL, JavaScript, Solidity, HTML/CSS, react, typescript, next.js, node.js etc
 - Discrete Mathematics, Linear Algebra, Calculus, Number Theory, graph theory, probability
 - Artificial Intelligence (AI)
 - Cybersecurity
@@ -22,6 +22,8 @@
 | `/cs-core`           | Core CS topics + Code + Application                 |
 | `/global-projects`   | Real-life projects, tools, experiments from scratch |
 | `/docs`              | roadmaps, checklists.                               |
+| '/c'                 | All projects from c books                           |
+| '/web-dev'           | All projects from web-dev books                     |
 
 ---
 
