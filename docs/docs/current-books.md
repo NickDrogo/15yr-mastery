@@ -5,9 +5,9 @@ Each book links directly to the folder where related notes or implementations li
 
 | Book Title                   | Notes Folder        |
 | ---------------------------- | ------------------- |
-| Python Crash Course          | /python-foundation/ |
+| Python Crash Course          | /Python/            |
 | Discrete Mathematics (Rosen) | /mathematics/       |
-| C Absolute Beginners         | /c-foundation/      |
+| C Absolute Beginners         | /c/                 |
 | Html & Css by Duckett        | /web-dev/           |
 | Grokking Algorithms          | /cs-core/           |
 | Pro Git                      | /blank with intent/ |
