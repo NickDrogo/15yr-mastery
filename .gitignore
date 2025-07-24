@@ -1,8 +1,0 @@
-.vscode/
-__pychache__/
-node_modules/
-.env
-*.pyc
-.DS_Store
-.bash_history
-.gitconfig
