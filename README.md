@@ -17,7 +17,7 @@
 
 | Folder               | Purpose                                             |
 | -------------------- | --------------------------------------------------- |
-| `/python-foundation` | All projects from python books                      |
+| `/python`            | All projects from python books                      |
 | `/mathematics`       | Math + Code + Real-world use                        |
 | `/cs-core`           | Core CS topics + Code + Application                 |
 | `/global-projects`   | Real-life projects, tools, experiments from scratch |
