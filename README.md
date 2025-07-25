@@ -22,8 +22,8 @@
 | `/cs-core`           | Core CS topics + Code + Application                 |
 | `/global-projects`   | Real-life projects, tools, experiments from scratch |
 | `/docs`              | roadmaps, checklists.                               |
-| '/c'                 | All projects from c books                           |
-| '/web-dev'           | All projects from web-dev books                     |
+|  /c                  | All projects from c books                           |
+|  /web-dev            | All projects from web-dev books                     |
 
 ---
 
