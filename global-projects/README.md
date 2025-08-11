@@ -8,4 +8,4 @@ Each project is:
 - Structured for real-world deployment
 - Independent of book-guided learning
 
-These are the tools, solutions, and systems created during the 10-year journey — the proof of concept, and creativity.
+These are the tools, solutions, and systems created during the 15-year journey — the proof of concept, and creativity.
