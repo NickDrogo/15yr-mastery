@@ -40,5 +40,5 @@ No noise, no hype — just **bricks stacked daily** toward mastery.
 | Phase            | Target Duration      |
 | ---------------- | -------------------- |
 | Foundation Build | 2035-2040 (with BSc) |
-| Deep Field Work  | 2029–2040            |
+| Deep Field Work  | 2025–2035            |
 | Global Impact    | After 2040🧠🌍       |
