@@ -4,11 +4,12 @@
 
 ### 🔥 Core Focus:
 
-- full stack web+mobile dev
+- Full Stack Web+Mobile Dev
 - Discrete Mathematics, Linear Algebra, Calculus, Number Theory, probability
 - Artificial Intelligence (AI)
 - Cybersecurity
 - Blockchain
+- Cloud and Devops
 - Algorithms, OS, Networking, Databases
 
 ---
