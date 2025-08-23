@@ -4,7 +4,7 @@
 
 ### 🔥 Core Focus:
 
-- Full Stack Web+Mobile Dev
+- Software Engineering
 - Discrete Mathematics, Linear Algebra, Calculus, Number Theory, probability
 - Artificial Intelligence (AI)
 - Cybersecurity
