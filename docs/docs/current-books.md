@@ -6,6 +6,4 @@ Each book links directly to the folder where related notes or implementations li
 | Book Title            | Notes Folder        |
 | --------------------- | ------------------- |
 | Python Crash Course   | /python-foundation/ |
-| C Absolute Beginners  | /c-foundation/      |
 | Html & Css by Duckett | /web-dev/           |
-| Pro Git               | /blank with intent/ |
