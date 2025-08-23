@@ -19,12 +19,10 @@
 | Folder               | Purpose                                             |
 | -------------------- | --------------------------------------------------- |
 | `/python-foundation` | All projects from python learning tools             |
-| `/mobile-dev`        | All projects from mobile-dev learnig tools          |
+| `/web-dev`           | All projects from web-dev learnig tools             |
 | `/python`            | All projects from python books                      |
 | `/global-projects`   | Real-life projects, tools, experiments from scratch |
 | `/docs`              | roadmaps, checklists.                               |
-| /c                   | All projects from c books                           |
-| /web-dev             | All projects from web-dev books                     |
 
 ---
 
