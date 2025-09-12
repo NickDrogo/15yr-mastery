@@ -1,0 +1,4 @@
+In python i learnt about the beauty of programming and how easy it pythonan be if you really invested in it.
+In python i learnt the contrasts btwn while and for loops which gives a great feeling of joy 
+In python i learnt the contrasts btwn lists and tuples and how to work with them
+In python we love
