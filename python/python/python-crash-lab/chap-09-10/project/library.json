@@ -1,16 +1,16 @@
 [
-    {
-        "title": "Python crash course",
-        "author": "Eric Matthes",
-        "year": 2019,
-        "status": "read",
-        "genre": "Tech"
-    },
-    {
-        "title": "Think and Grow Rich",
-        "author": "Napoleon",
-        "year": 2019,
-        "status": "read",
-        "genre": "Self Growth"
-    }
+  {
+    "title": "Python crash course",
+    "author": "Eric Matthes",
+    "year": 2019,
+    "status": "read",
+    "genre": "Tech"
+  },
+  {
+    "title": "Think and Grow Rich",
+    "author": "Napoleon",
+    "year": 2019,
+    "status": "read",
+    "genre": "Self Growth"
+  }
 ]
