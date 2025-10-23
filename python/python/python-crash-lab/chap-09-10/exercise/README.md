@@ -9,7 +9,7 @@ They helped me understand:
 - Attributes
 - Instances
 - Try & Exception
-- Manipulationg Files
+- Manipulating Files
 
 ## 📂 Exercise Files
 
