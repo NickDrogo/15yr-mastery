@@ -15,7 +15,7 @@ header_row = next(reader)
 
 
 # Extract data
-dates, lons, lats, volts = [], [], [], []
+lons, lats, volts = [], [], []
 for row in reader:
     current_dates = datetime.strptime(row[5], '%Y-%m-%d')
     try:
@@ -25,7 +25,6 @@ for row in reader:
     except ValueError:
         print(f"Data for {current_dates} is missing")
     else:
-        dates.append(current_dates)
         lats.append(lat)
         lons.append(lon)
         volts.append(volt)
@@ -34,7 +33,6 @@ for row in reader:
 title = 'World Fire'
 fig = px.scatter_geo(lat=lats, lon=lons, size=volts, title=title,
                      color=volts, 
-                     data_frame=dates,
                      color_continuous_scale='viridis',
                      labels={'color':'Magnitude'},
                      projection='natural earth',
