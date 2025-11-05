@@ -2,7 +2,7 @@
 
 ## 🧩 Chapter 9: Class
 
-- Learned how to declare clas
+- Learned how to declare class
 - Learned how to inherit class
 - Learned about methods,attributes and instances
 - Learned its applications
