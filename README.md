@@ -1,6 +1,6 @@
-# 🧱 15-Year Mastery Journey (2025–2040)
+# 🧱 15-Year Mastery Journey (2025–2035)
 
-> Public record of my 15-year pursuit of mastery in Computer Science and real-world systems.
+> Public record of my 10-year pursuit of mastery in Computer Science and real-world systems.
 
 ### 🔥 Core Focus:
 
@@ -16,13 +16,9 @@
 
 ## 📁 Repo Structure:
 
-| Folder               | Purpose                                             |
-| -------------------- | --------------------------------------------------- |
-| `/python-foundation` | All projects from python learning tools             |
-| `/web-dev`           | All projects from web-dev learnig tools             |
-| `/python`            | All projects from python books                      |
-| `/global-projects`   | Real-life projects, tools, experiments from scratch |
-| `/docs`              | roadmaps, checklists.                               |
+| Folder    | Purpose                        |
+| --------- | ------------------------------ |
+| `/python` | All projects from python books |
 
 ---
 
@@ -37,6 +33,6 @@ No noise, no hype — just **bricks stacked daily** toward mastery.
 
 | Phase            | Target Duration      |
 | ---------------- | -------------------- |
-| Foundation Build | 2035-2040 (with BSc) |
+| Foundation Build | 2035-2035 (with BSc) |
 | Deep Field Work  | 2025–2035            |
-| Global Impact    | After 2040🧠🌍       |
+| Global Impact    | After 2035🧠🌍       |
