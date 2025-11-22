@@ -5,10 +5,7 @@
 ### 🔥 Core Focus:
 
 - Software Engineering
-- Discrete Mathematics, Linear Algebra, Calculus, Number Theory, probability
 - Artificial Intelligence (AI)
-- Cybersecurity
-- Blockchain
 - Cloud and Devops
 - Algorithms, OS, Networking, Databases
 
@@ -32,8 +29,7 @@ No noise, no hype — just **bricks stacked daily** toward mastery.
 
 ## 📆 Timeline
 
-| Phase            | Target Duration      |
-| ---------------- | -------------------- |
-| Foundation Build | 2035-2035 (with BSc) |
-| Deep Field Work  | 2025–2035            |
-| Global Impact    | After 2035🧠🌍       |
+| Phase           | Target Duration |
+| --------------- | --------------- |
+| Deep Field Work | 2025–2035       |
+| Global Impact   | After 2035🧠🌍  |
